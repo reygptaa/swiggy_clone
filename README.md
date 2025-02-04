@@ -11,7 +11,7 @@ To set up the project on your local machine, follow these simple steps:
    Run the following command to clone the project
 
    ```bash
-   git clone https://github.com/jayminDarji2003/Swiggy-clon-using-react.git
+   git clone https://github.com/reygptaa/swiggy_clone.git 
    ```
 
 1. **Install Dependencies:**
